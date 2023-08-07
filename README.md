@@ -1,16 +1,20 @@
-### Hi there 👋
+### 👋 FullStack Developer
+***
+Welcome to my profile! I am a passionate Full Stack Developer with a knack for crafting innovative and high-performing web applications. With a blend of frontend and backend expertise, I thrive on turning ideas into fully functional digital experiences.
+- Bringing 6 years of experience across diverse domains including IoT, healthcare, and e-commerce.
+- Specializing in creating reusable components, adhering to coding standards, and building high-performance, scalable applications.
+- Expertise in developing optimized APIs and ensuring secure authentication and authorization. Proficient in monolithic and microservices architectures.
 
-<!--
-**vijay-khemnar-ttpl/vijay-khemnar-ttpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Tech Expertise
+***
+My technical skills technologies:
+- Languages: JavaScript(Angular, ReactJs, NodeJs), Python(Django, FastAPi, Flask)
+- Serverless Backend development using AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Amazon S3, AWS IoT Core, Amazon Cognito, Amazon CloudWatch, Amazon Kinesis, Amazon SQS, Amazon SNS.
+- Platforms: Self-Hosted, AWS IoT
+- Network and Server Management with Load Balancing ⚙️
+- AWS Services: RDS, IoT, Greengrass, EKS, Lambda 🌩
+- Deployment and Versioning Tools: Kubernetes, Docker, GitLab, Git, GitHub
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Collaboration
+***
+Let's team up to create remarkable Full Stack solutions! Get in touch to explore how my expertise can contribute to your projects and drive their success.
