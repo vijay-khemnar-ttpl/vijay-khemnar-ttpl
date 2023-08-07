@@ -9,7 +9,7 @@ Welcome to my profile! I am a passionate Full Stack Developer with a knack for c
 ### 👨‍💻 Tech Expertise
 ***
 
-My technical skills technologies:
+My technical skills:
 - Languages: JavaScript(Angular, ReactJs, NodeJs), Python(Django, FastAPi, Flask)
 - Serverless Backend development using AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Amazon S3, AWS IoT Core, Amazon Cognito, Amazon CloudWatch, Amazon Kinesis, Amazon SQS, Amazon SNS.
 - Platforms: Self-Hosted, AWS IoT
