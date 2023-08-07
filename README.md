@@ -18,5 +18,6 @@ My technical skills technologies:
 - Deployment and Versioning Tools: Kubernetes, Docker, GitLab, Git, GitHub
 
 ## Collaboration
+***
 
 Let's team up to create remarkable Full Stack solutions! Get in touch to explore how my expertise can contribute to your projects and drive their success.
