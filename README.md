@@ -1,5 +1,6 @@
 ### 👋 FullStack Developer
 ***
+
 Welcome to my profile! I am a passionate Full Stack Developer with a knack for crafting innovative and high-performing web applications. With a blend of frontend and backend expertise, I thrive on turning ideas into fully functional digital experiences.
 - Bringing 6 years of experience across diverse domains including IoT, healthcare, and e-commerce.
 - Specializing in creating reusable components, adhering to coding standards, and building high-performance, scalable applications.
@@ -7,6 +8,7 @@ Welcome to my profile! I am a passionate Full Stack Developer with a knack for c
 
 ### 👨‍💻 Tech Expertise
 ***
+
 My technical skills technologies:
 - Languages: JavaScript(Angular, ReactJs, NodeJs), Python(Django, FastAPi, Flask)
 - Serverless Backend development using AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Amazon S3, AWS IoT Core, Amazon Cognito, Amazon CloudWatch, Amazon Kinesis, Amazon SQS, Amazon SNS.
@@ -16,5 +18,5 @@ My technical skills technologies:
 - Deployment and Versioning Tools: Kubernetes, Docker, GitLab, Git, GitHub
 
 ## Collaboration
-***
+
 Let's team up to create remarkable Full Stack solutions! Get in touch to explore how my expertise can contribute to your projects and drive their success.
