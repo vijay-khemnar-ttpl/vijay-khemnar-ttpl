@@ -17,7 +17,7 @@ My technical skills technologies:
 - AWS Services: RDS, IoT, Greengrass, EKS, Lambda 🌩
 - Deployment and Versioning Tools: Kubernetes, Docker, GitLab, Git, GitHub
 
-## Collaboration
+### Collaboration
 ***
 
 Let's team up to create remarkable Full Stack solutions! Get in touch to explore how my expertise can contribute to your projects and drive their success.
